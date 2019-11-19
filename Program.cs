@@ -14,6 +14,7 @@ namespace CodeReviewTraining
                 Console.WriteLine("a+b");
                 a = b;
                 b = a;
+                int p=12;
             }
         }
     }
